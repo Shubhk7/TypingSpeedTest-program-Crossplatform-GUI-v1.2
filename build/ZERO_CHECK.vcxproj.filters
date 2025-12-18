@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\SHUBH KASHYAP\OneDrive\Desktop\Git\TypingSpeedTest-program-Crossplatform-GUI-v1.2\build\CMakeFiles\5f5232753b38539f17d1d58fe3195ea4\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{971D69D9-A81A-3C1E-AC9B-010A8BD385DA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

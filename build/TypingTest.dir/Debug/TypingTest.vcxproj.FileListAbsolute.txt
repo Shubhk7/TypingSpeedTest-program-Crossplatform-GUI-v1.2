@@ -1,0 +1,3 @@
+C:\Users\SHUBH KASHYAP\OneDrive\Desktop\Git\TypingSpeedTest-program-Crossplatform-GUI-v1.2\build\Debug\raylib.dll
+C:\Users\SHUBH KASHYAP\OneDrive\Desktop\Git\TypingSpeedTest-program-Crossplatform-GUI-v1.2\build\Debug\glfw3.dll
+C:\Users\SHUBH KASHYAP\OneDrive\Desktop\Git\TypingSpeedTest-program-Crossplatform-GUI-v1.2\build\TypingTest.dir\Debug\TypingTe.EC9D9D85.Up2Date

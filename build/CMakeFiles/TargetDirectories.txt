@@ -1,0 +1,3 @@
+C:/Users/SHUBH KASHYAP/OneDrive/Desktop/Git/TypingSpeedTest-program-Crossplatform-GUI-v1.2/build/CMakeFiles/TypingTest.dir
+C:/Users/SHUBH KASHYAP/OneDrive/Desktop/Git/TypingSpeedTest-program-Crossplatform-GUI-v1.2/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/SHUBH KASHYAP/OneDrive/Desktop/Git/TypingSpeedTest-program-Crossplatform-GUI-v1.2/build/CMakeFiles/ZERO_CHECK.dir
