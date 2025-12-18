@@ -1,0 +1,1 @@
+# TypingSpeedTest-program-Crossplatform-GUI-v1.2
